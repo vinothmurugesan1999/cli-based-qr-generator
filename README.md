@@ -1,0 +1,1 @@
+# cli-based-qr-generator
